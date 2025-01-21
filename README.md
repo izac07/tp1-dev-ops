@@ -60,9 +60,7 @@ tp1-dev-ops/
 ## ⚙️ Instructions pour cloner le projet
 1. Ouvrez votre terminal et exécutez la commande suivante :
    ```bash
-   git clone https://github.com/<nom-utilisateur>/tp1-dev-ops.git
-   ```
-   Remplacez `<nom-utilisateur>` par le nom du propriétaire du dépôt GitHub.
+   git clone https://github.com/<izac07>/tp1-dev-ops.git
 
 2. Accédez au dossier du projet :
    ```bash
@@ -78,7 +76,7 @@ Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'infor
 
 ## ✨ Aperçu visuel
 Une fois le site déployé, vous pourrez le visualiser ici :
-[https://github.com/<bill yan>/tp1-dev-ops](https://github.com/<izac01>/tp1-dev-ops)
+[https://github.com/<bill-yan>/tp1-dev-ops](https://github.com/<izac07>/tp1-dev-ops)
 
 ---
 
@@ -93,10 +91,3 @@ Une fois le site déployé, vous pourrez le visualiser ici :
 Pour toute question ou suggestion, contactez-nous :
 - **Bill Yan** : tuenkamb@gmail.com
 - **Abdoul Izac** : izactiote@gmail.com
-
----
-
-### **Explications des personnalisations :**
-- **Nom de l'équipe** : Vos noms (Bill Yan et Abdoul Izac) sont ajoutés dans la section "Membres de l'équipe".
-- **Contacts** : Vous pouvez remplacer les adresses e-mail par vos vraies adresses.
-- **Liens GitHub** : Remplacez `<nom-utilisateur>` par votre nom d'utilisateur GitHub ou celui de votre binôme si nécessaire.
